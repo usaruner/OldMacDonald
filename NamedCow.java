@@ -1,4 +1,4 @@
-class NamedCow extends Cow
+public class NamedCow extends Cow
 {
   private String named;
   NamedCow(String type, String nName, String sound)
